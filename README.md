@@ -1,2 +1,0 @@
-# mec
-seminario
